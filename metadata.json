@@ -1,0 +1,6 @@
+{
+  "name": "Customer Churn Prediction Model",
+  "description": "An industry-grade ML system for predicting customer churn with real-time scoring, SHAP-style explanations, and a Success-Ops dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Machine Learning", "Data Visualization", "Business Analytics"]
+}
